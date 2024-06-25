@@ -1,0 +1,13 @@
+---
+title: "Legal Design for an AI Future"
+subtitle: "Lessons in Accessibility"
+author: Nicole Coleman
+institute: Stanford University Libraries & Center for Spatial and Textual Analysis
+date: June 28, 2024
+format: 
+  revealjs:
+    footer: "Humanities + Design for Know Systemic Racism"
+    transition: slide
+    background-transition: fade
+---
+
