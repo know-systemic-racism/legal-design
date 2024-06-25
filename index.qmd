@@ -1,13 +1,25 @@
 ---
-title: "Legal Design for an AI Future"
-subtitle: "Lessons in Accessibility"
-author: Nicole Coleman
-institute: Stanford University Libraries & Center for Spatial and Textual Analysis
-date: June 28, 2024
-format: 
-  revealjs:
-    footer: "Humanities + Design for Know Systemic Racism"
-    transition: slide
-    background-transition: fade
+title: Legal Design for an AI Future
+subtitle: Lessons in Accessibility
+format: clean-revealjs
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Catherine Nicole Coleman
+    orcid: 0000-0002-3360-1975
+    email: cnc@stanford.edu
+    affiliations: Stanford University
+date: last-modified
 ---
+
+## Know Systemic Racism
+
+### Law Enforcement Policy Manuals
+
+SB978 and AB481
+
+
+
+## What standards can do to improve accessibility
 
