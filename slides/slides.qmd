@@ -1,0 +1,35 @@
+---
+title: Legal Design for an AI Future
+subtitle: Lessons in Accessibility
+format: clean-revealjs
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Catherine Nicole Coleman
+    orcid: 0000-0002-3360-1975
+    email: cnc@stanford.edu
+    affiliations: Stanford University
+date: last-modified
+---
+
+## California Senate Bill 978
+
+### The goal is access but the outcome falls short
+
+Here we have some text that may run over several lines of the slide frame,
+depending on how long it is.
+
+- first item 
+    - A sub item
+
+Next, we'll brief review some theme-specific components.
+
+- Note that _all_ of the standard Reveal.js
+[features](https://quarto.org/docs/presentations/revealjs/)
+can be used with this theme, even if we don't highlight them here.
+
+## Example
+
+
+
