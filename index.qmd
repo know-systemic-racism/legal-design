@@ -22,28 +22,8 @@ date: last-modified
 - Work in collaboration with community
 :::
 
-## Case Study: California Law Enforcement Agency Policy Manuals
-
-```{mermaid}
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'primaryColor': '#fff',
-      'primaryTextColor': '#000',
-      'primaryBorderColor': '#fff',
-      'lineColor': '#F8B229'
-    }
-  }
-}%%
-
-flowchart TD
-%%| fig-width: 6.5
-%%| fig-align: center
-  A[Create metadata]-->B(Collect the documents)
-  B-->C[Link documents to related </br>entities in a knowledge graph]
-
-```
+##
+![](imgs/case_study.png)
 
 ## 
 ![Diagram for proccessing a document collection as data. Nicole Coleman, 2021.](imgs/KSR_CAD.png)
