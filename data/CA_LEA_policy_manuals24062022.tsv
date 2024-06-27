@@ -1,0 +1,463 @@
+Ref	Scraped?	LEA Name	City	County	LEA Type
+SB978-001	Not scraped	Alameda County District Attorney 	Oakland	Alameda County	District Attorney
+SB978-002	Not scraped	Alameda County Sheriff's Office	Oakland	Alameda County	Sheriff
+SB978-003	Lexipol	Alameda Police Department	Alameda	Alameda County	Police
+SB978-004	Lexipol	Albany Police Department	Albany	Contra Costa County	Police
+SB978-005	Lexipol	Alhambra Police Department	Alhambra	Los Angeles County	Police
+SB978-008	Not Lexipol	Alpine County Sheriff's Department	Markleeville	Alpine County	Sheriff
+SB978-009	Lexipol	Alturas Police Department	Alturas	Modoc County	Police
+SB978-011	Lexipol	Amador County Sheriff's Department	Jackson	Amador County	Sheriff
+SB978-012	Not scraped	American River College Police Department	Sacramento	Sacramento County	College/University
+SB978-014	Lexipol	Anaheim Police Department	Anaheim	Orange County	Police
+SB978-015	Lexipol	Anderson Police Department	Anderson	Shasta County	Police
+SB978-016	Lexipol	Angels Camp Police Department	Angels Camp	Calaveras County	Police
+SB978-017	Lexipol	Antioch Police Department	Antioch	Contra Costa County	Police
+SB978-018	Not scraped	Apple Valley Unified School District Police Department	Apple Valley	San Bernardino County	School
+SB978-019	Not scraped	Arcadia Police Department	Arcadia	Los Angeles County	Police
+SB978-020	Lexipol	Arcata Police Department	Arcata	Humboldt County	Police
+SB978-021	Lexipol	Arroyo Grande Police Department	Arroyo Grande	San Luis Obispo County	Police
+SB978-022	Lexipol	Arvin Police Department	Arvin	Kern County	Police
+SB978-023	Lexipol	Atascadero Police Department	Atascadero	San Luis Obispo County	Police
+SB978-024	Lexipol	Atherton Police Department	Atherton	San Mateo County	Police
+SB978-025	Lexipol	Atwater Police Department	Atwater	Merced County	Police
+SB978-026	Lexipol	Auburn Police Department	Auburn	Placer County	Police
+SB978-027	Lexipol	Avenal Police Department	Avenal	Kings County	Police
+SB978-029	Lexipol	Azusa Police Department	Azusa	Los Angeles County	Police
+SB978-030	Lexipol	Bakersfield Police Department	Bakersfield	Kern County	Police
+SB978-033	Lexipol	Banning Police Department	Banning	Riverside County	Police
+SB978-034	Lexipol	Barstow Police Department	Barstow	San Bernardino County	Police
+SB978-035	Lexipol	Bay Area Rapid Transit Police Department	Oakland	San Francisco Bay Area Rapid Transit District (Calif.)	Transit
+SB978-036	Lexipol	Bear Valley Police Department	Tehachapi	Alpine County	Police
+SB978-037	Not scraped	Beaumont Police Department	Beaumont	Riverside County	Police
+SB978-038	Lexipol	Bell Gardens Police Department	Bell Gardens	Los Angeles County	Police
+SB978-040	Lexipol	Belmont Police Department	Belmont	San Mateo County	Police
+SB978-041	Not scraped	Belvedere Police Department	Belvedere	Marin County	Police
+SB978-042	Lexipol	Benicia Police Department	Benicia	Solano County	Police
+SB978-043	Lexipol	Berkeley Police Department	Berkeley	Alameda County	Police
+SB978-044	Lexipol	Beverly Hills Police Department	Beverly Hills	Los Angeles County	Police
+SB978-049	Lexipol	Blythe Police Department	Blythe	Riverside County	Police
+SB978-050	Lexipol	Brawley Police Department	Brawley	Imperial County	Police
+SB978-051	Lexipol	Brea Police Department	Brea	Orange County	Police
+SB978-052	Not Lexipol	Brentwood Police Department	Brentwood	Contra Costa County	Police
+SB978-053	Lexipol	Brisbane Police Department	Brisbane	San Francisco County	Police
+SB978-054	Lexipol	Broadmoor Police Department	Daly City	San Mateo County	Police
+SB978-055	Not scraped	Buena Park Police Department	Buena Park	Orange County	Police
+SB978-056	Lexipol	Burbank Police Department	Burbank	Los Angeles County	Police
+SB978-058	Lexipol	Burlingame Police Department	Burlingame	San Mateo County	Police
+SB978-062	Lexipol	Butte County Sheriff's Department/Coroner	Oroville	Butte County	Sheriff
+SB978-119	Lexipol	Cal Poly University Police	San Luis Obispo	San Luis Obispo County	College/University
+SB978-130	Not Lexipol	Cal State LA Police Department	Los Angeles	Los Angeles County	College/University
+SB978-066	Not Lexipol	Calaveras County Sheriff's Department	San Andreas	Calaveras County	Sheriff
+SB978-067	Lexipol	Calexico Police Department	Calexico	Imperial County	Police
+SB978-068	Not scraped	California City Police Department	California City	Kern County	Police
+SB978-071	Lexipol	Calistoga Police Department	Calistoga	Napa County	Police
+SB978-072	Not scraped	Campbell Police Department	Campbell	Santa Clara County	Police
+SB978-073	Lexipol	Capitola Police Department	Capitola	Santa Cruz County	Police
+SB978-074	Not scraped	Carlsbad Police Department	Carlsbad	San Diego County	Police
+SB978-075	Lexipol	Carmel Police Department	Carmel	Monterey County	Police
+SB978-076	Not scraped	Cathedral City Police Department	Cathedral City	Riverside County	Police
+SB978-077	Lexipol	Central Marin Police Authority	Larkspur	Marin County	Police
+SB978-078	Not scraped	Ceres Department of Public Safety	Ceres	Stanislaus County	Police
+SB978-080	Lexipol	Chaffey Community College District Police Department	Rancho Cucamonga	San Bernardino County	College/University
+SB978-082	Lexipol	Chico Police Department	Chico	Butte County	Police
+SB978-083	Lexipol	Chino Police Department	Chino	San Bernardino County	Police
+SB978-084	Lexipol	Chowchilla Police Department	Chowchilla	Madera County	Police
+SB978-085	Lexipol	Chula Vista Police Department	Chula Vista	San Diego County	Police
+SB978-086	Not Lexipol	Citrus Community College District Department of Campus Safety	Glendora	Los Angeles County	College/University
+SB978-087	Lexipol	Citrus Heights Police Department	Citrus Heights	Sacramento County	Police
+SB978-089	Not Lexipol	Claremont Police Department	Claremont	Los Angeles County	Police
+SB978-090	Lexipol	Clayton Police Department	Clayton	Contra Costa County	Police
+SB978-091	Not scraped	Clearlake Police Department	Clearlake	Lake County	Police
+SB978-092	Lexipol	Cloverdale Police Department	Cloverdale	Sonoma County	Police
+SB978-093	Lexipol	Clovis Police Department	Clovis	Fresno County	Police
+SB978-094	Lexipol	Clovis Unified School District Police Department	Clovis	Fresno County	School
+SB978-095	Not scraped	Coalinga Police Department	Coalinga	Fresno County	Police
+SB978-096	Not scraped	Coast Community College District Police Department	Costa Mesa	Orange County	College/University
+SB978-098	Not scraped	Colma Police Department	Colma	San Mateo County	Police
+SB978-099	Lexipol	Colton Police Department	Colton	San Bernardino County	Police
+SB978-100	Not scraped	Colusa County District Attorney	Colusa	Colusa County	District Attorney
+SB978-101	Lexipol	Colusa County Sheriff's Department	Colusa	Colusa County	Sheriff
+SB978-102	Lexipol	Colusa Police Department	Colusa	Colusa County	Police
+SB978-105	Lexipol	Concord Police Department	Concord	Contra Costa County	Police
+SB978-691	Not scraped	Orinda Police Department	Orinda	Contra Costa County	Police
+SB978-107	Lexipol	Contra Costa Community College District Police Department	Martinez	Contra Costa County	College/University
+SB978-108	Lexipol	Contra Costa County District Attorney	Martinez	Contra Costa County	District Attorney
+SB978-109	Not Lexipol	Contra Costa County Sheriff's Department/Coroner	Martinez	Contra Costa County	Sheriff
+SB978-110	Not scraped	Corcoran Police Department	Corcoran	Kings County	Police
+SB978-112	Not scraped	Corona Police Department	Corona	Riverside County	Police
+SB978-113	Lexipol	Coronado Police Department	Coronado	San Diego County	Police
+SB978-114	Lexipol	Costa Mesa Police Department	Costa Mesa	Orange County	Police
+SB978-115	Not scraped	Cosumnes River College Police Department	Sacramento	Sacramento County	College/University
+SB978-116	Not scraped	Cotati Police Department	Cotati	Sonoma County	Police
+SB978-117	Not scraped	Covina Police Department	Covina	Los Angeles County	Police
+SB978-118	Lexipol	CPSU Pomona Department of Public Safety	Pomona	Los Angeles County	College/University
+SB978-121	Lexipol	CSU Bakersfield University Police Department	Bakersfield	Kern County	College/University
+SB978-122	Lexipol	CSU Channel Islands University Police Department	Camarillo	Ventura County	College/University
+SB978-123	Not Lexipol	CSU Chico University Police Department	Chico	Butte County	College/University
+SB978-124	Not Lexipol	CSU Dominguez Hills University Police and Parking	Carson	Los Angeles County	College/University
+SB978-125	Not scraped	CSU East Bay University Police Department	Hayward	Alameda County	College/University
+SB978-126	Lexipol	CSU Fresno University Police Department	Fresno	Fresno County	College/University
+SB978-127	Lexipol	CSU Fullerton University Police Department	Fullerton	Orange County	College/University
+SB978-129	Lexipol	CSU Long Beach University Police Department	Long Beach	Los Angeles County	College/University
+SB978-132	Lexipol	CSU Monterey Bay University Police Department	Seaside	Monterey County	College/University
+SB978-133	Not Lexipol	CSU Northridge Department of Police Services	Northridge	Los Angeles County	College/University
+SB978-134	Lexipol	CSU Sacramento Public Safety/University Police Department	Sacramento	Sacramento County	College/University
+SB978-135	Lexipol	CSU San Bernardino University Police Department	San Bernardino 	San Bernardino County	College/University
+SB978-138	Lexipol	CSU San José University Police Department	San Jose	Santa Clara County	College/University
+SB978-139	Lexipol	CSU San Marcos University Police Department	San Marcos	San Diego County	College/University
+SB978-141	Lexipol	CSU Stanislaus Police Department	Turlock	Stanislaus County	College/University
+SB978-142	Not Lexipol	Cuesta College Department of Public Safety	San Luis Obispo	San Luis Obispo County	College/University
+SB978-143	Lexipol	Culver City Police Department	Culver City	Los Angeles County	Police
+SB978-144	Not Lexipol	Cypress Police Department	Cypress	Orange County	Police
+SB978-145	Not scraped	Daly City Police Department	Daly City	San Mateo County	Police
+SB978-148	Not scraped	Davis Police Department	Davis	Yolo County	Police
+SB978-150	Lexipol	Del Norte County Sheriff's Department	Crescent City	Del Norte County	Sheriff
+SB978-151	Lexipol	Del Rey Oaks Police Department	Del Rey Oaks	Monterey County	Police
+SB978-152	Lexipol	Delano Police Department	Delano	Kern County	Police
+SB978-153	Lexipol	Desert Hot Springs Police Department	Desert Hot Springs	Riverside County	Police
+SB978-154	Lexipol	Dinuba Police Department	Dinuba	Tulare County	Police
+SB978-155	Not scraped	Dixon Police Department	Dixon	Solano County	Police
+SB978-156	Lexipol	Dos Palos Police Department	Dos Palos	Merced County	Police
+SB978-157	Not scraped	Downey Police Department	Downey	Los Angeles County	Police
+SB978-158	Lexipol	East Bay Regional Parks District Department of Public Safety	Castro Valley	Alameda County	Parks
+SB978-159	Lexipol	East Palo Alto Police Department	East Palo Alto	San Mateo County	Police
+SB978-160	Not scraped	El Cajon Police Department	El Cajon	San Diego County	Police
+SB978-161	Lexipol	El Camino Community College District Police Department	Torrance	Los Angeles County	College/University
+SB978-162	Not Lexipol	El Centro Police Department	El Centro	Imperial County	Police
+SB978-163	Lexipol	El Cerrito Police Department	El Cerrito	Contra Costa County	Police
+SB978-165	Lexipol	El Dorado County Sheriff's Department	South Lake Tahoe	El Dorado County	Sheriff
+SB978-166	Lexipol	El Monte Police Department	El Monte	Los Angeles County	Police
+SB978-168	Not scraped	El Segundo Police Department	El Segundo	Los Angeles County	Police
+SB978-169	Lexipol	Elk Grove Police Department	Elk Grove	Sacramento County	Police
+SB978-170	Lexipol	Emeryville Police Department	Emeryville	Alameda County	Police
+SB978-171	Lexipol	Escalon Police Department	Escalon	San Joaquin County	Police
+SB978-172	Not scraped	Escondido Police Department	Escondido	San Diego County	Police
+SB978-173	Lexipol	Etna Police Department	Etna	Siskiyou County	Police
+SB978-174	Lexipol	Eureka Police Department	Eureka	Humboldt County	Police
+SB978-175	Lexipol	Exeter Police Department	Exeter	Tulare County	Police
+SB978-177	Lexipol	Fairfax Police Department	Fairfax	Marin County	Police
+SB978-178	Lexipol	Fairfield Police Department	Fairfield	Solano County	Police
+SB978-179	Lexipol	Farmersville Police Department	Farmersville	Tulare County	Police
+SB978-180	Lexipol	Ferndale Police Department	Ferndale	Humboldt County	Police
+SB978-181	Lexipol	Firebaugh Police Department	Firebaugh	Fresno County	Police
+SB978-182	Not scraped	Folsom Lake College Police Department	Folsom	Sacramento County	College/University
+SB978-183	Lexipol	Folsom Police Department	Folsom	Sacramento County	Police
+SB978-184	Lexipol	Fontana Police Department	Fontana	San Bernardino County	Police
+SB978-187	Lexipol	Fort Bragg Police Department	Fort Bragg	Mendocino County	Police
+SB978-188	Lexipol	Fortuna Police Department	Fortuna	Humboldt County	Police
+SB978-189	Lexipol	Foster City Police Department	Foster City	San Mateo County	Police
+SB978-190	Lexipol	Fountain Valley Police Department	Fountain Valley	Orange County	Police
+SB978-191	Lexipol	Fowler Police Department	Fowler	Fresno County	Police
+SB978-192	Not scraped	Fremont Police Department	Fremont	Alameda County	Police
+SB978-194	Not scraped	Fresno County Sheriff's Department	Fresno	Fresno County	Sheriff
+SB978-195	Not Lexipol	Fresno Police Department	Fresno	Fresno County	Police
+SB978-197	Not scraped	Fullerton Police Department	Fullerton	Orange County	Police
+SB978-198	Lexipol	Galt Police Department	Galt	Sacramento County	Police
+SB978-199	Not scraped	Garden Grove Police Department	Garden Grove	Orange County	Police
+SB978-200	Lexipol	Gardena Police Department	Gardena	Los Angeles County	Police
+SB978-202	Lexipol	Gilroy Police Department	Gilroy	Santa Clara County	Police
+SB978-203	Not Lexipol	Glendale Community College District Police Department	Glendale	Los Angeles County	College/University
+SB978-204	Lexipol	Glendale Police Department	Glendale	Los Angeles County	Police
+SB978-206	Lexipol	Glendora Police Department	Glendora	Los Angeles County	Police
+SB978-209	Lexipol	Glenn County Sheriff's Department/Coroner	Orland	Glenn County	Sheriff
+SB978-210	Not scraped	Gonzales Police Department	Gonzales	Monterey County	Police
+SB978-211	Lexipol	Grass Valley Police Department	Grass Valley	Nevada County	Police
+SB978-212	Lexipol	Greenfield Police Department	Greenfield	Monterey County	Police
+SB978-213	Lexipol	Gridley Police Department	Gridley	Butte County	Police
+SB978-214	Lexipol	Grover Beach Police Department	Grover Beach	San Luis Obispo County	Police
+SB978-215	Lexipol	Guadalupe Police Department	Guadalupe	Santa Barbara County	Police
+SB978-216	Not scraped	Gustine Police Department	Gustine	Merced County	Police
+SB978-218	Lexipol	Hanford Police Department	Hanford	Kings County	Police
+SB978-219	Lexipol	Hawthorne Police Department	Hawthorne	Los Angeles County	Police
+SB978-220	Not Lexipol	Hayward Police Department	Hayward	Alameda County	Police
+SB978-221	Lexipol	Healdsburg Police Department	Healdsburg	Sonoma County	Police
+SB978-222	Lexipol	Hemet Police Department	Hemet	Riverside County	Police
+SB978-223	Lexipol	Hercules Police Department	Hercules	Contra Costa County	Police
+SB978-224	Not scraped	Hermosa Beach Police Department	Hermosa Beach	Los Angeles County	Police
+SB978-226	Lexipol	Hillsborough Police Department	Hillsborough	San Mateo County	Police
+SB978-227	Lexipol	Hollister Police Department	Hollister	San Benito County	Police
+SB978-229	Lexipol	Humboldt County Sheriff's Department	Eureka	Humboldt County	Sheriff
+SB978-128	Lexipol	Humboldt State University	Arcata	Humboldt County	College/University
+SB978-231	Lexipol	Huntington Beach Police Department	Huntington Beach	Orange County	Police
+SB978-232	Lexipol	Huntington Park Police Department	Huntington Park	Los Angeles County	Police
+SB978-233	Lexipol	Huron Police Department	Huron	Fresno County	Police
+SB978-236	Lexipol	Imperial Police Department	Imperial	Imperial County	Police
+SB978-237	Lexipol	Indio Police Department	Indio	Riverside County	Police
+SB978-238	Lexipol	Inglewood Police Department	Inglewood	Los Angeles County	Police
+SB978-241	Lexipol	Inyo County Sheriff's Department	Bishop	Inyo County	Sheriff
+SB978-242	Lexipol	Ione Police Department	Ione	Amador County	Police
+SB978-243	Not scraped	Irvine Police Department	Irvine	Orange County	Police
+SB978-245	Lexipol	Irwindale Police Department	Irwindale	Los Angeles County	Police
+SB978-246	Lexipol	Jackson Police Department	Jackson	Amador County	Police
+SB978-247	Lexipol	Kensington Police Department	Kensington	Contra Costa County	Police
+SB978-248	Lexipol	Kerman Police Department	Kerman	Fresno County	Police
+SB978-251	Not scraped	Kern County Sheriff's Department	Bakersfield	Kern County	Sheriff
+SB978-253	Lexipol	King City Police Department	King City	Monterey County	Police
+SB978-256	Lexipol	Kings County Sheriff's Department	Hanford	Kings County	Sheriff
+SB978-257	Lexipol	Kingsburg Police Department	Kingsburg	Fresno County	Police
+SB978-258	Lexipol	La Habra Police Department	La Habra	Orange County	Police
+SB978-259	Not scraped	La Mesa Police Department	La Mesa	San Diego County	Police
+SB978-260	Lexipol	La Palma Police Department	La Palma	Orange County	Police
+SB978-261	Not Lexipol	La Verne Police Department	La Verne	Los Angeles County	Police
+SB978-262	Not scraped	Laguna Beach Police Department	Laguna Beach	Orange County	Police
+SB978-264	Lexipol	Lake County Sheriff's Department	Lakeport	Lake County	Sheriff
+SB978-266	Lexipol	Lakeport Police Department	Lakeport	Lake County	Police
+SB978-268	Lexipol	Lassen County Sheriff's Department	Susanville	Lassen County	Sheriff
+SB978-269	Lexipol	Lemoore Police Department	Lemoore	Kings County	Police
+SB978-270	Lexipol	Lincoln Police Department	Lincoln	Placer County	Police
+SB978-271	Lexipol	Lindsay Department of Public Safety	Lindsay	Tulare County	Police
+SB978-272	Lexipol	Livermore Police Department	Livermore	Alameda County	Police
+SB978-273	Lexipol	Livingston Police Department	Livingston	Merced County	Police
+SB978-274	Lexipol	Lodi Police Department	Lodi	San Joaquin County	Police
+SB978-275	Lexipol	Lompoc Police Department	Lompoc	Santa Barbara County	Police
+SB978-276	Not scraped	Long Beach Police Department	Long Beach	Los Angeles County	Police
+SB978-278	Lexipol	Los Alamitos Police Department	Los Alamitos	Orange County	Police
+SB978-279	Lexipol	Los Altos Police Department	Los Altos	Santa Clara County	Police
+SB978-280	Not scraped	Los Angeles City Department of Recreation and Parks	Los Angeles	Los Angeles County	Parks
+SB978-281	Not scraped	Los Angeles County District Attorney	Los Angeles	Los Angeles County	District Attorney
+SB978-282	Not Lexipol	Los Angeles County Probation Department	Los Angeles	Los Angeles County	Probation
+SB978-283	Not scraped	Los Angeles County Sheriff's Department	Los Angeles	Los Angeles County	Sheriff
+SB978-284	Lexipol	Los Angeles Police Department	Los Angeles	Los Angeles County	Police
+SB978-285	Lexipol	Los Angeles Port Police Department	Los Angeles	Los Angeles County	Port
+SB978-287	Not scraped	Los Angeles School Police Department	Los Angeles	Los Angeles County	School
+SB978-289	Not scraped	Los Angeles World Airports Police Department	Los Angeles	Los Angeles County	Airport
+SB978-290	Lexipol	Los Banos Police Department	Los Banos	Merced County	Police
+SB978-291	Lexipol	Los Gatos/Monte Sereno Police Department	Los Gatos	Santa Clara County	Police
+SB978-292	Lexipol	Los Rios Community College District Police Department	Sacramento	Sacramento County	College/University
+SB978-295	Not scraped	Madera County Sheriff's Department	Madera	Madera County	Sheriff
+SB978-296	Lexipol	Madera Police Department	Madera	Madera County	Police
+SB978-297	Lexipol	Mammoth Lakes Police Department	Mammoth Lakes	Mono County	Police
+SB978-298	Lexipol	Manhattan Beach Police Department	Manhattan Beach	Los Angeles County	Police
+SB978-299	Lexipol	Manteca Police Department	Manteca	San Joaquin County	Police
+SB978-300	Lexipol	Marin Community College District Police Department	Kentfield	Marin County	College/University
+SB978-303	Lexipol	Marin County Sheriff's Department	San Rafael	Marin County	Sheriff
+SB978-305	Lexipol	Marina Department of Public Safety	Marina	Monterey County	Police
+SB978-308	Not scraped	Martinez Police Department	Martinez	Contra Costa County	Police
+SB978-309	Lexipol	Marysville Police Department	Marysville	Yuba County	Police
+SB978-310	Lexipol	McFarland Police Department	McFarland	Kern County	Police
+SB978-313	Lexipol	Mendocino County Sheriff's Department	Ukiah	Mendocino County	Sheriff
+SB978-314	Lexipol	Mendota Police Department	Mendota	Fresno County	Police
+SB978-315	Lexipol	Menifee Police Department	Menifee	Riverside County	Police
+SB978-316	Lexipol	Menlo Park Police Department	Menlo Park	San Mateo County	Police
+SB978-317	Lexipol	Merced Community College Police Department	Merced	Merced County	College/University
+SB978-319	Lexipol	Merced County Sheriff's Department	Merced	Merced County	Sheriff
+SB978-320	Lexipol	Merced Police Department	Merced	Merced County	Police
+SB978-321	Not scraped	Mill Valley Police Department	Mill Valley	Marin County	Police
+SB978-323	Lexipol	Milpitas Police Department	Milpitas	Santa Clara County	Police
+SB978-324	Lexipol	MiraCosta Community College District Police Department	Oceanside	San Diego County	College/University
+SB978-325	Lexipol	Modesto Police Department	Modesto	Stanislaus County	Police
+SB978-326	Lexipol	Modoc County Sheriff's Department	Alturas	Modoc County	Sheriff
+SB978-328	Lexipol	Mono County Sheriff's Department	Bridgeport	Mono County	Sheriff
+SB978-329	Lexipol	Monrovia Police Department	Monrovia	Los Angeles County	Police
+SB978-330	Lexipol	Montclair Police Department	Montclair	San Bernardino County	Police
+SB978-331	Lexipol	Montebello Police Department	Montebello	Los Angeles County	Police
+SB978-334	Lexipol	Monterey County Sheriff's Department	Monterey	Monterey County	Sheriff
+SB978-335	Lexipol	Monterey Park Police Department	Monterey Park	Los Angeles County	Police
+SB978-337	Not scraped	Monterey Police Department	Monterey	Monterey County	Police
+SB978-339	Lexipol	Moraga Police Department	Moraga	Contra Costa County	Police
+SB978-340	Not scraped	Morgan Hill Police Department	Morgan Hill	Santa Clara County	Police
+SB978-341	Lexipol	Morro Bay Police Department	Morro Bay	San Luis Obispo County	Police
+SB978-342	Lexipol	Mountain View Police Department	Mountain View	Santa Clara County	Police
+SB978-345	Lexipol	Mt. Shasta Police Department	Mt. Shasta	Siskiyou County	Police
+SB978-346	Lexipol	Murrieta Police Department	Murrieta	Riverside County	Police
+SB978-348	Lexipol	Napa County Sheriff's Department	Napa	Napa County	Sheriff
+SB978-349	Lexipol	Napa Police Department	Napa	Napa County	Police
+SB978-350	Lexipol	Napa Valley College Police Department	Napa	Napa County	College/University
+SB978-351	Lexipol	National City Police Department	National City	San Diego County	Police
+SB978-352	Lexipol	Nevada City Police Department	Nevada City	Nevada County	Police
+SB978-354	Lexipol	Nevada County Sheriff's Department	Nevada City	Nevada County	Sheriff
+SB978-355	Lexipol	Newark Police Department	Newark	Alameda County	Police
+SB978-356	Lexipol	Newman Police Department	Newman	Stanislaus County	Police
+SB978-357	Lexipol	Newport Beach Police Department	Newport Beach	Orange County	Police
+SB978-358	Lexipol	Novato Police Department	Novato	Marin County	Police
+SB978-359	Lexipol	Oakdale Police Department	Oakdale	Stanislaus County	Police
+SB978-361	Not scraped	Oakland Police Department	Oakland	Alameda County	Police
+SB978-363	Lexipol	Oakley Police Department	Oakley	Contra Costa County	Police
+SB978-365	Not scraped	Oceanside Police Department	Oceanside	San Diego County	Police
+SB978-366	Not Lexipol	Oceanside Police Department Harbor Unit	Oceanside	San Diego County	Police
+SB978-367	Lexipol	Ohlone Community College District Police Department	Fremont	Alameda County	College/University
+SB978-368	Not scraped	Ontario Police Department	Ontario	San Bernardino County	Police
+SB978-370	Not scraped	Orange County District Attorney	Santa Ana	Orange County	District Attorney
+SB978-371	Not scraped	Orange County District Attorney	Santa Ana	Orange County	District Attorney
+SB978-373	Not scraped	Orange County Sheriff's Department/Coroner	Santa Ana	Orange County	Sheriff
+SB978-374	Not scraped	Orange Cove Police Department	Orange Cove	Fresno County	Police
+SB978-375	Not scraped	Orange Police Department	Orange	Orange County	Police
+SB978-376	Not scraped	Orland Police Department	Orland	Glenn County	Police
+SB978-377	Lexipol	Oroville Police Department	Oroville	Butte County	Police
+SB978-378	Not scraped	Oxnard Police Department	Oxnard	Ventura County	Police
+SB978-379	Lexipol	Pacific Grove Police Department	Pacific Grove	Monterey County	Police
+SB978-381	Not scraped	Pacifica Police Department	Pacifica	San Mateo County	Police
+SB978-382	Lexipol	Palm Springs Police Department	Palm Springs	Riverside County	Police
+SB978-383	Lexipol	Palo Alto Police Department	Palo Alto	Santa Clara County	Police
+SB978-385	Lexipol	Palos Verdes Estates Police Department	Palos Verdes Estates	Los Angeles County	Police
+SB978-386	Lexipol	Paradise Police Department	Paradise	Butte County	Police
+SB978-388	Lexipol	Pasadena City College District Police Department	Pasadena	Los Angeles County	College/University
+SB978-389	Lexipol	Pasadena Police Department	Pasadena	Los Angeles County	Police
+SB978-390	Lexipol	Paso Robles Police Department	Paso Robles	San Luis Obispo County	Police
+SB978-392	Not scraped	Petaluma Police Department	Petaluma	Sonoma County	Police
+SB978-393	Lexipol	Piedmont Police Department	Piedmont	Alameda County	Police
+SB978-394	Lexipol	Pinole Police Department	Pinole	Contra Costa County	Police
+SB978-395	Not scraped	Pismo Beach Police Department	Pismo Beach	San Luis Obispo County	Police
+SB978-396	Not scraped	Pittsburg Police Department	Pittsburg	Contra Costa County	Police
+SB978-397	Lexipol	Placentia Police Department	Placentia	Orange County	Police
+SB978-398	Not Lexipol	Placer County District Attorney	Roseville	Placer County	District Attorney
+SB978-400	Not scraped	Placer County Sheriff's Department	Roseville	Placer County	Sheriff
+SB978-401	Lexipol	Placerville Police Department	Placerville	El Dorado County	Police
+SB978-402	Lexipol	Pleasant Hill Police Department	Pleasant Hill	Contra Costa County	Police
+SB978-403	Not Lexipol	Pleasanton Police Services	Pleasanton	Alameda County	Police
+SB978-405	Not scraped	Plumas County Sheriff's Department	Quincy	Plumas County	Sheriff
+SB978-406	Lexipol	Pomona Police Department	Pomona	Los Angeles County	Police
+SB978-408	Lexipol	Port Hueneme Police Department	Port Hueneme	Ventura County	Police
+SB978-410	Not scraped	Porterville Police Department	Porterville	Tulare County	Police
+SB978-411	Not scraped	Red Bluff Police Department	Red Bluff	Tehama County	Police
+SB978-412	Lexipol	Redding Police Department	Redding	Shasta County	Police
+SB978-413	Lexipol	Redlands Police Department	Redlands	San Bernardino County	Police
+SB978-414	Lexipol	Redondo Beach Police Department	Redondo Beach	Los Angeles County	Police
+SB978-415	Not scraped	Redwood City Police Department	Redwood City	San Mateo County	Police
+SB978-416	Lexipol	Reedley Police Department	Reedley	Fresno County	Police
+SB978-417	Lexipol	Rialto Police Department	Rialto	San Bernardino County	Police
+SB978-418	Lexipol	Richmond Police Department	Richmond	Contra Costa County	Police
+SB978-419	Not scraped	Ridgecrest Police Department	Ridgecrest	Kern County	Police
+SB978-420	Lexipol	Rio Dell Police Department	Rio Dell	Humboldt County	Police
+SB978-422	Not scraped	Ripon Police Department	Ripon	San Joaquin County	Police
+SB978-423	Not scraped	Riverside Community College District Police Department	Riverside	Riverside County	College/University
+SB978-426	Lexipol	Riverside County Sheriff's Department	Riverside	Riverside County	Sheriff
+SB978-427	Lexipol	Riverside Police Department	Riverside	Riverside County	Police
+SB978-428	Lexipol	Rocklin Police Department	Rocklin	Placer County	Police
+SB978-429	Lexipol	Rohnert Park Department of Public Safety	Rohnert Park	Sonoma County	Police
+SB978-430	Lexipol	Roseville Police Department	Roseville	Placer County	Police
+SB978-431	Lexipol	Ross Police Department	Ross	Marin County	Police
+SB978-436	Not scraped	Sacramento County Sheriff's Department	Sacramento	Sacramento County	Sheriff
+SB978-437	Not scraped	Sacramento Police Department	Sacramento	Sacramento County	Police
+SB978-439	Not scraped	Saddleback Community College Police Department	Mission Viejo	Orange County	College/University
+SB978-440	Lexipol	Saint Helena Police Department	Saint Helena	Napa County	Police
+SB978-443	Not scraped	San Benito County Sheriff's Department	Hollister	San Benito County	Sheriff
+SB978-446	Not scraped	San Bernardino County Sheriff-Coroner	San Bernardino	San Bernardino County	Sheriff
+SB978-447	Not scraped	San Bernardino Police Department	San Bernardino	San Bernardino County	Police
+SB978-449	Not scraped	San Bruno Police Department	San Bruno	San Mateo County	Police
+SB978-455	Not scraped	San Diego County Probation Department 	San Diego	San Diego County	Probation
+SB978-456	Not scraped	San Diego County Sheriff's Department	San Diego	San Diego County	Sheriff
+SB978-457	Lexipol	San Diego Harbor Police Department	San Diego	San Diego County	Port
+SB978-458	Not Lexipol	San Diego Police Department	San Diego	San Diego County	Police
+SB978-136	Lexipol	San Diego State University Police Department	San Diego	San Diego County	College/University
+SB978-460	Not scraped	San Fernando Police Department	San Fernando	Los Angeles County	Police
+SB978-463	Not Lexipol	San Francisco County Sheriff's Department	San Francisco	San Francisco County	Sheriff
+SB978-465	Not scraped	San Francisco Police Department	San Francisco	San Francisco County	Police
+SB978-466	Lexipol	San Gabriel Police Department	San Gabriel	Los Angeles County	Police
+SB978-469	Not scraped	San Joaquin County Probation Department	Stockton	San Joaquin County	Probation
+SB978-470	Not scraped	San Joaquin County Sheriff's Department	French Camp	San Joaquin County	Sheriff
+SB978-471	Not scraped	San Joaquin Delta College Police Department	Stockton	San Joaquin County	College/University
+SB978-472	Not Lexipol	San Jose Police Department	San Jose	Santa Clara County	Police
+SB978-475	Not Lexipol	San Leandro Police Department	San Leandro	Alameda County	Police
+SB978-477	Lexipol	San Luis Obispo County Sheriff's Department	San Luis Obispo	San Luis Obispo County	Sheriff
+SB978-478	Lexipol	San Luis Obispo Police Department	San Luis Obispo	San Luis Obispo County	Police
+SB978-479	Lexipol	San Marino Police Department	San Marino	Los Angeles County	Police
+SB978-481	Lexipol	San Mateo County Sheriff's Office	Redwood City	San Mateo County	Sheriff
+SB978-482	Lexipol	San Mateo Police Department	San Mateo	San Mateo County	Police
+SB978-483	Lexipol	San Pablo Police Department	San Pablo	Contra Costa County	Police
+SB978-484	Lexipol	San Rafael Police Department	San Rafael	Marin County	Police
+SB978-485	Lexipol	San Ramon Police Department	San Ramon	Contra Costa County	Police
+SB978-486	Lexipol	Sand City Police Department	Sand City	Monterey County	Police
+SB978-487	Lexipol	Sanger Police Department	Sanger	Fresno County	Police
+SB978-488	Lexipol	Santa Ana Police Department	Santa Ana	Orange County	Police
+SB978-489	Not scraped	Santa Ana Unified School District Police Department	Santa Ana	Orange County	School
+SB978-491	Lexipol	Santa Barbara County Sheriff's Department	Santa Barbara	Santa Barbara County	Sheriff
+SB978-492	Lexipol	Santa Barbara Police Department	Santa Barbara	Santa Barbara County	Police
+SB978-495	Not scraped	Santa Clara County Sheriff's Department	San Jose	Santa Clara County	Sheriff
+SB978-496	Lexipol	Santa Clara Police Department	Santa Clara	Santa Clara County	Police
+SB978-498	Not scraped	Santa Cruz County District Attorney	Santa Cruz	Santa Cruz County	District Attorney
+SB978-499	Lexipol	Santa Cruz County Sheriff's Department	Santa Cruz	Santa Cruz County	Sheriff
+SB978-500	Lexipol	Santa Cruz Police Department	Santa Cruz	Santa Cruz County	Police
+SB978-501	Not scraped	Santa Fe Springs Police Services	Santa Fe Springs	Los Angeles County	Police
+SB978-502	Not scraped	Santa Maria Police Department	Santa Maria	Santa Barbara County	Police
+SB978-504	Not Lexipol	Santa Monica Police Department	Santa Monica	Los Angeles County	Police
+SB978-505	Lexipol	Santa Paula Police Department	Santa Paula	Ventura County	Police
+SB978-506	Not scraped	Santa Rosa Junior College Police Department	Santa Rosa	Sonoma County	College/University
+SB978-507	Not scraped	Santa Rosa Police Department	Santa Rosa	Sonoma County	Police
+SB978-508	Lexipol	Sausalito Police Department	Sausalito	Marin County	Police
+SB978-509	Lexipol	Scotts Valley Police Department	Scotts Valley	Santa Cruz County	Police
+SB978-510	Lexipol	Seal Beach Police Department	Seal Beach	Orange County	Police
+SB978-511	Lexipol	Seaside Police Department	Seaside	Monterey County	Police
+SB978-512	Lexipol	Sebastopol Police Department	Sebastopol	Sonoma County	Police
+SB978-513	Not scraped	Selma Police Department	Selma	Fresno County	Police
+SB978-514	Lexipol	Shafter Police Department	Shafter	Kern County	Police
+SB978-517	Lexipol	Shasta County Sheriff's Department	Redding	Shasta County	Sheriff
+SB978-520	Lexipol	Sierra County Sheriff's Office	Downieville	Sierra County	Sheriff
+SB978-521	Lexipol	Sierra Madre Police Department	Sierra Madre	Los Angeles County	Police
+SB978-522	Lexipol	Signal Hill Police Department	Signal Hill	Los Angeles County	Police
+SB978-523	Lexipol	Simi Valley Police Department	Simi Valley	Ventura County	Police
+SB978-525	Lexipol	Siskiyou County Sheriff's Department	Yreka	Siskiyou County	Sheriff
+SB978-529	Not scraped	Solano County Sheriff's Department	Fairfield	Solano County	Sheriff
+SB978-531	Not Lexipol	Soledad Police Department	Soledad	Monterey County	Police
+SB978-534	Not scraped	Sonoma County Probation Department	Santa Rosa	Sonoma County	Probation
+SB978-535	Lexipol	Sonoma County Sheriff's Office	Santa Rosa	Sonoma County	Sheriff
+SB978-536	Not scraped	Sonoma Police Department	Sonoma	Sonoma County	Police
+SB978-140	Not scraped	Sonoma State University Police and Parking Services	Rohnert Park	Sonoma County	College/University
+SB978-537	Lexipol	Sonora Police Department	Sonora	Tuolumne County	Police
+SB978-538	Lexipol	South Gate Police Department	South Gate	Los Angeles County	Police
+SB978-539	Lexipol	South Lake Tahoe Police Department	South Lake Tahoe	El Dorado County	Police
+SB978-540	Lexipol	South Pasadena Police Department	South Pasadena	Los Angeles County	Police
+SB978-541	Not scraped	South San Francisco Police Department	South San Francisco	San Mateo County	Police
+SB978-542	Lexipol	Southwestern Community College Police Department	Chula Vista	San Diego County	College/University
+SB978-544	Not Lexipol	Stanford University Department of Public Safety 	Palo Alto	Santa Clara County	College/University
+SB978-546	Lexipol	Stanislaus County Sheriff's Department	Modesto	Stanislaus County	Sheriff
+SB978-548	Not scraped	Stockton Police Department	Stockton	San Joaquin County	Police
+SB978-551	Lexipol	Suisun City Police Department	Suisun City	Solano County	Police
+SB978-552	Lexipol	Sunnyvale Department of Public Safety	Sunnyvale	Santa Clara County	Police
+SB978-556	Not scraped	Sutter County Sheriff's Department	Yuba City	Sutter County	Sheriff
+SB978-558	Lexipol	Taft Police Department	Taft	Kern County	Police
+SB978-559	Lexipol	Tehachapi Police Department	Tehachapi	Kern County	Police
+SB978-561	Lexipol	Tehama County Sheriff's Department	Red Bluff	Tehama County	Sheriff
+SB978-563	Lexipol	Tiburon Police Department	Tiburon	Marin County	Police
+SB978-564	Lexipol	Torrance Police Department	Torrance	Los Angeles County	Police
+SB978-565	Not Lexipol	Tracy Police Department	Tracy	San Joaquin County	Police
+SB978-569	Lexipol	Trinity County Sheriff's Department	Weaverville	Trinity County	Sheriff
+SB978-570	Lexipol	Truckee Police Department	Truckee	Nevada County	Police
+SB978-573	Lexipol	Tulare County Sheriff's Department	Visalia	Tulare County	Sheriff
+SB978-574	Lexipol	Tulare Police Department	Tulare	Tulare County	Police
+SB978-577	Lexipol	Tuolumne County Sheriff's Department	Sonora	Tuolumne County	Sheriff
+SB978-578	Lexipol	Turlock Police Department	Turlock	Stanislaus County	Police
+SB978-579	Not scraped	Tustin Police Department	Tustin	Orange County	Police
+SB978-580	Lexipol	Twin Rivers Unified School District Police Services	McClellan Park	Sacramento County	School
+SB978-581	Lexipol	UC Berkeley Police Department	Berkeley	Alameda County	College/University
+SB978-582	Not scraped	UC Davis Police Department	Davis	Yolo County	College/University
+SB978-583	Lexipol	UC Irvine Police Department	Irvine	Orange County	College/University
+SB978-584	Not scraped	UC Los Angeles Police Department	Los Angeles	Los Angeles County	College/University
+SB978-585	Lexipol	UC Merced Police Department	Merced	Merced County	College/University
+SB978-586	Lexipol	UC Riverside Police Department	Riverside	Riverside County	College/University
+SB978-587	Not Lexipol	UC San Diego Police Department	San Diego 	San Diego County	College/University
+SB978-588	Not Lexipol	UC San Francisco Police Department	San Francisco	San Francisco County	College/University
+SB978-589	Not scraped	UC Santa Barbara Police Department	Santa Barbara	Santa Barbara County	College/University
+SB978-590	Not scraped	UC Santa Cruz Police Department	Santa Cruz	Santa Cruz County	College/University
+SB978-591	Lexipol	Ukiah Police Department	Ukiah	Mendocino County	Police
+SB978-592	Not scraped	Union City Police Department	Union City	Alameda County	Police
+SB978-597	Not scraped	Upland Police Department	Upland	San Bernardino County	Police
+SB978-598	Lexipol	Vacaville Police Department	Vacaville	Solano County	Police
+SB978-600	Not scraped	Vallejo Police Department	Vallejo	Solano County	Police
+SB978-601	Not scraped	Ventura County Community College District Police Department	Camarillo	Ventura County	College/University
+SB978-602	Lexipol	Ventura County District Attorney	Ventura	Ventura County	District Attorney
+SB978-603	Lexipol	Ventura County Sheriff's Department	Ventura	Ventura County	Sheriff
+SB978-605	Lexipol	Ventura Police Department	Ventura	Ventura County	Police
+SB978-606	Lexipol	Vernon Police Department	Vernon	Los Angeles County	Police
+SB978-607	Lexipol	Victor Valley College Police Department	Victorville	San Bernardino County	College/University
+SB978-608	Lexipol	Visalia Police Department	Visalia	Tulare County	Police
+SB978-609	Not scraped	Walnut Creek Police Department	Walnut Creek	Contra Costa County	Police
+SB978-610	Lexipol	Watsonville Police Department	Watsonville	Santa Cruz County	Police
+SB978-611	Lexipol	Weed Police Department	Weed	Siskiyou County	Police
+SB978-612	Not Lexipol	West Cities Police Communications Center	Seal Beach	Orange County	Communications
+SB978-613	Lexipol	West Covina Police Department	West Covina	Los Angeles County	Police
+SB978-614	Lexipol	West Sacramento Police Department	West Sacramento	Yolo County	Police
+SB978-615	Not scraped	West Valley-Mission Community College District Police Department	Saratoga	Santa Clara County	College/University
+SB978-616	Lexipol	Westminster Police Department	Westminster	Orange County	Police
+SB978-618	Lexipol	Wheatland Police Department	Wheatland	Yuba County	Police
+SB978-620	Lexipol	Whittier Police Department	Whittier	Los Angeles County	Police
+SB978-621	Lexipol	Williams Police Department	Williams	Colusa County	Police
+SB978-622	Not scraped	Willits Police Department	Willits	Mendocino County	Police
+SB978-623	Lexipol	Windsor Police Department	Windsor	Sonoma County	Police
+SB978-624	Not scraped	Winters Police Department	Winters	Yolo County	Police
+SB978-626	Lexipol	Woodland Police Department	Woodland	Yolo County	Police
+SB978-627	Lexipol	Yolo County District Attorney	Woodland	Yolo County	District Attorney
+SB978-628	Not scraped	Yolo County Sheriff's Department	Woodland	Yolo County	Sheriff
+SB978-629	Lexipol	Yreka Police Department	Yreka	Siskiyou County	Police
+SB978-630	Not scraped	Yuba City Police Department	Yuba City	Sutter County	Police
+SB978-633	Not Lexipol	Yuba County Sheriff's Department	Marysville	Yuba County	Sheriff

@@ -1,7 +1,9 @@
 ---
 title: Legal Design for an AI Future
-subtitle: Lessons in Accessibility
-format: clean-revealjs
+subtitle: What does it mean to provide access?
+format: 
+  clean-revealjs:
+    chalkboard: true
 html-math-method:
   method: mathjax
   url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
@@ -12,24 +14,114 @@ author:
     affiliations: Stanford University
 date: last-modified
 ---
+## Know Systemic Racism
+
+::: {.incremental}
+- Show interconnections
+- Humanize the harm
+- Work in collaboration with community
+:::
+
+## Case Study: California Law Enforcement Agency Policy Manuals
+
+```{mermaid}
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'primaryColor': '#fff',
+      'primaryTextColor': '#000',
+      'primaryBorderColor': '#fff',
+      'lineColor': '#F8B229'
+    }
+  }
+}%%
+
+flowchart LR
+%%| fig-width: 6.5
+  A[Create metadata]-->B(Collect the documents)
+  B-->C[Link documents to related </br>entities in a knowledge graph]
+
+```
+
+## 
+![Diagram for proccessing a document collection as data. Nicole Coleman, 2021.](imgs/KSR_CAD.png)
+
+
+## Why law enforcement policy manuals?
+
+"Collecting these materials serves an important role in creating an informed populace...When civilians know what is allowed by police policies, they are armed with the knowledge to protect themselves, their loved ones and their community by fighting back against abuse. People must know their rights in order to identify when their rights are being violated."
+
+-Judge LaDoris Hazzard Cordell (Ret.)
+
+
+## California Law Enforcement Agencies {visibility="hidden"}
+![This map shows California law enforcement agencies (city-level proximity) that participate in the Commission on Peace Officer Standards and Training (POST). (Map created by Claudia Engel for Know Systemic Racism)](imgs/lea_map.png)
+
+## {.smaller}
+
+```{r}
+library(sf)
+library(tidyverse)
+library(terra)
+library(ussf)
+library(tmap)
+
+# read coordinates and make them sf
+cc_sf <- read_tsv("data/Knowledge-Graph-city-county.tsv") %>% 
+  separate(`City coordinate location`, into = c ("lat", "lon"), sep = ",", convert = T) %>% 
+  st_as_sf(coords = c("lon", "lat"), crs = 4326) 
+
+# read lea table
+lea <- read_tsv("data/CA_LEA_policy_manuals24062022.tsv") %>% 
+  mutate(`Policy Manuals` = case_when(
+    `Scraped?` == "Lexipol" ~ "Lexipol manual",
+    `Scraped?` == "Not scraped" ~ "No manual posted",
+    `Scraped?` == "Not Lexipol" ~ "Non-Lexipol manual",
+    TRUE ~ "other"),
+    `Policy Manuals` = factor(`Policy Manuals`, levels = c("Lexipol manual", "Non-Lexipol manual", "No manual posted")))
+
+# read county polys
+CA_counties <- boundaries(geography = "county")  %>% 
+  filter(STATEFP == "06") 
+
+# join coordinates with manuals and make sf
+lea_sf <- right_join(cc_sf, lea, by = "City") 
+
+# jitter lat lon and add html labels
+lea_sf_jitter <- st_jitter(lea_sf) %>% 
+  mutate(citylabel = paste0("<a href = https://www.wikidata.org/wiki/", 
+                            `City QID`, ">", City, "</a>"),
+         countylabel = paste0("<a href = https://www.wikidata.org/wiki/", 
+                              `County QID`, ">", County.x, "</a>"))
+
+# interactive map with colored and jittered dots and popups
+tmap_mode("view")
+tm_shape(CA_counties) +
+  tm_borders(col = "grey") +
+  tm_shape(lea_sf_jitter) +
+  tm_dots(col = "Policy Manuals", palette = (c("#FF722A", "#FFB833","#78E5FF")),
+          id="LEA Name", 
+          popup.vars = c("LEA Type" = "LEA Type", "City"="citylabel", "County"="countylabel", "Ref"="Ref"),
+          popup.format = list(html.escape = F))
+
+```
+
+This map shows California law enforcement agencies (city-level proximity) that participate in the Commission on Peace Officer Standards and Training (POST). (Map created by Claudia Engel for Know Systemic Racism)
+
 
 ## California Senate Bill 978
 
-### The goal is access but the outcome falls short
+SB 978, Bradford. Law enforcement agencies: public records.
 
-Here we have some text that may run over several lines of the slide frame,
-depending on how long it is.
+...This bill would, commencing January 1, 2020, require the Commission on Peace Officer Standards and Training and each local law enforcement agency to [conspicuously post]{.alert} on their Internet Web sites all current standards, policies, practices, operating procedures, and education and training materials that would otherwise be available to the public if a request was made pursuant to the California Public Records Act. 
 
-- first item 
-    - A sub item
+## California Senate Bill 978 (cont.)
 
-Next, we'll brief review some theme-specific components.
+SECTION 1. The Legislature finds and declares all of the following:
 
-- Note that _all_ of the standard Reveal.js
-[features](https://quarto.org/docs/presentations/revealjs/)
-can be used with this theme, even if we don't highlight them here.
+(a) ...
 
-## Example
-
+(d) Making regulations of law enforcement agencies easily accessible to the public helps educate the public about law enforcement policies, practices, and procedures, increases communication and community trust, and enhances transparency, while saving costs and labor associated with responding to individual requests for this information.
 
 
