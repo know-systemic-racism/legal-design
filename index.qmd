@@ -4,6 +4,7 @@ subtitle: What does it mean to provide access?
 format: 
   clean-revealjs:
     chalkboard: true
+    center: true
 html-math-method:
   method: mathjax
   url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
@@ -14,6 +15,37 @@ author:
     affiliations: Stanford University
 date: last-modified
 ---
+##
+
+What is human-centered? And shouldn’t we be planet-centered? 
+
+## HAI (Human-centered AI Institute)
+
+### Mission
+
+The mission of HAI is to advance AI research, education, policy and practice to improve the human condition. Led by faculty from multiple departments across Stanford, [research focuses on developing AI technologies inspired by human intelligence]{.alert}; studying, forecasting and guiding the human and societal impact of AI; and designing and creating AI applications that augment human capabilities. 
+
+##
+
+“The choices are essentially political and ideological rather than technological. As we design technological systems, we are in fact designing sets of social relationships, and as we question those social relationships and attempt to design systems differently, we are then beginning to challenge in a political way, power structures in society” 
+
+-Mike Cooley (1934-2020) in *Architect or Bee? The human/technology relationship* (1980)
+
+##
+
+“innovation in legal services, with practical, agile, and user-centered methods to make the legal system clearer, more efficient, more usable, and friendlier.”
+
+-Margaret Hagan in *Law by Design* retrieved at https://lawbydesign.co/
+
+
+## What does it mean to provide access?
+
+::: {.incremental}
+- Machine learning for discovery?
+- Machine learning for access?
+:::
+
+
 ## Know Systemic Racism
 
 ::: {.incremental}
@@ -24,9 +56,6 @@ date: last-modified
 
 ##
 ![](imgs/case_study.png)
-
-## 
-![Diagram for proccessing a document collection as data. Nicole Coleman, 2021.](imgs/KSR_CAD.png)
 
 
 ## Why law enforcement policy manuals?
@@ -90,6 +119,31 @@ tm_shape(CA_counties) +
 
 This map shows California law enforcement agencies (city-level proximity) that participate in the Commission on Peace Officer Standards and Training (POST). (Map created by Claudia Engel for Know Systemic Racism)
 
+## Porterville Police Department Policy Manual
+
+::: {.r-stack}
+![](imgs/PVPD_1.png){.fragment width="100%"}
+
+![](imgs/PVPD_2.png){.fragment width="100%"}
+
+![](imgs/PVPD_3.png){.fragment width="100%"}
+
+![](imgs/PVPD_4.png){.fragment width="100%"}
+
+![](imgs/PVPD_5.png){.fragment width="100%"}
+:::
+
+## San Leandro Police Department
+
+::: {.r-stack}
+![](imgs/sanleandro_0.png){.fragment width="100%"}
+
+![](imgs/sanleandro_1.png){.fragment width="100%"}
+
+![](imgs/sanleandro_2.png){.fragment width="100%"}
+
+:::
+
 
 ## California Senate Bill 978
 
@@ -105,4 +159,31 @@ SECTION 1. The Legislature finds and declares all of the following:
 
 (d) Making regulations of law enforcement agencies easily accessible to the public helps educate the public about law enforcement policies, practices, and procedures, increases communication and community trust, and enhances transparency, while saving costs and labor associated with responding to individual requests for this information.
 
+
+## 
+![Diagram for proccessing a document collection as data.](imgs/KSR_CAD.png)
+
+##  Commercial Content Management Systems
+
+::: {.r-stack}
+![](imgs/civiclive.png){.fragment width="100%"}
+
+![](imgs/powerdms.png){.fragment width="100%"}
+
+:::
+
+##  Lexipol
+
+![Eagly, Ingrid V., and Joanna C. Schwartz. "Lexipol: The privatization of police policymaking." TEx. L. REv. 96 (2017): 891.](imgs/lexipol.png)
+
+
+
+##  
+
+::: {.r-stack}
+![](imgs/simple_sabotage1.png){.fragment width="100%"}
+
+![](imgs/simple_sabotage2.png){.fragment width="100%"}
+
+:::
 
