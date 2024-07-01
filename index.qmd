@@ -1,9 +1,13 @@
 ---
 title: Legal Design for an AI Future
 subtitle: What does it mean to provide access?
+title-slide-attributes:
+  data-background-image: /imgs/title_slide.png
+  data-background-size: contain
+  data-background-opacity: "1"
 format: 
   clean-revealjs:
-    chalkboard: true
+    chalkboard: false
     center: true
 html-math-method:
   method: mathjax
@@ -12,8 +16,7 @@ author:
   - name: Catherine Nicole Coleman
     orcid: 0000-0002-3360-1975
     email: cnc@stanford.edu
-    affiliations: Stanford University
-date: last-modified
+date: June 28, 2024
 ---
 ##
 
@@ -27,15 +30,15 @@ The mission of HAI is to advance AI research, education, policy and practice to 
 
 ##
 
-“The choices are essentially political and ideological rather than technological. As we design technological systems, we are in fact designing sets of social relationships, and as we question those social relationships and attempt to design systems differently, we are then beginning to challenge in a political way, power structures in society” 
+“The choices are essentially political and ideological rather than technological. As we design technological systems, we are in fact designing sets of social relationships, and as we question those social relationships and attempt to design systems differently, we are then beginning to challenge in a political way, power structures in society.” 
 
--Mike Cooley (1934-2020) in *Architect or Bee? The human/technology relationship* (1980)
+Mike Cooley (1934-2020) in **Architect or Bee? The human/technology relationship** (1980)
 
-##
+## "Legal Design" and legal design
 
-“innovation in legal services, with practical, agile, and user-centered methods to make the legal system clearer, more efficient, more usable, and friendlier.”
+“...innovation in legal services, with practical, agile, and user-centered methods to make the legal system clearer, more efficient, more usable, and friendlier.”
 
--Margaret Hagan in *Law by Design* retrieved at https://lawbydesign.co/
+Margaret Hagan in *Law by Design* retrieved at https://lawbydesign.co/
 
 
 ## What does it mean to provide access?
@@ -62,7 +65,7 @@ The mission of HAI is to advance AI research, education, policy and practice to 
 
 "Collecting these materials serves an important role in creating an informed populace...When civilians know what is allowed by police policies, they are armed with the knowledge to protect themselves, their loved ones and their community by fighting back against abuse. People must know their rights in order to identify when their rights are being violated."
 
--Judge LaDoris Hazzard Cordell (Ret.)
+Judge LaDoris Hazzard Cordell (Ret.)
 
 
 ## California Law Enforcement Agencies {visibility="hidden"}
@@ -136,7 +139,7 @@ This map shows California law enforcement agencies (city-level proximity) that p
 ## San Leandro Police Department
 
 ::: {.r-stack}
-![](imgs/sanleandro_0.png){.fragment width="100%"}
+![](imgs/sanleandro_0.png)
 
 ![](imgs/sanleandro_1.png){.fragment width="100%"}
 
@@ -165,8 +168,10 @@ SECTION 1. The Legislature finds and declares all of the following:
 
 ##  Commercial Content Management Systems
 
+
+
 ::: {.r-stack}
-![](imgs/civiclive.png){.fragment width="100%"}
+![](imgs/civiclive.png)
 
 ![](imgs/powerdms.png){.fragment width="100%"}
 
@@ -178,12 +183,8 @@ SECTION 1. The Legislature finds and declares all of the following:
 
 
 
-##  
+##  Simple Sabotage whether intentional or not
 
-::: {.r-stack}
-![](imgs/simple_sabotage1.png){.fragment width="100%"}
+![](imgs/simple_sabotage0.png)
 
-![](imgs/simple_sabotage2.png){.fragment width="100%"}
-
-:::
 
