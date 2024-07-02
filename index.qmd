@@ -7,6 +7,9 @@ format:
     slide-number: false
     template-partials:
       - title-slide.html 
+  pdf:
+    pdf-separate-fragments: true
+    colorlinks: true
 html-math-method:
   method: mathjax
   url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
@@ -20,10 +23,8 @@ date: June 28, 2024
 
 ## {.center}
 
-::: {.r-fit-text}
 What is human-centered? <br />
 And shouldn’t we be planet-centered? 
-:::
 
 ## Human-centered AI Institute (HAI) {.center}
 
@@ -42,7 +43,7 @@ Mike Cooley (1934-2020) in **Architect or Bee? The human/technology relationship
 
 “...innovation in legal services, with practical, agile, and user-centered methods to make the legal system clearer, more efficient, more usable, and friendlier.”
 
-Margaret Hagan in *Law by Design* retrieved at https://lawbydesign.co/
+Margaret Hagan in **Law by Design** retrieved at https://lawbydesign.co/
 
 
 ## What does it mean to provide access? {.center}
@@ -137,7 +138,7 @@ This map shows California law enforcement agencies (city-level proximity) that p
 ## Porterville Police Department Policy Manual
 
 ::: {.r-stack}
-![](imgs/PVPD_1.png){.fragment width="100%"}
+![](imgs/PVPD_1.png)
 
 ![](imgs/PVPD_2.png){.fragment width="100%"}
 
