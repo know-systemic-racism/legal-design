@@ -8,7 +8,6 @@ title-slide-attributes:
 format: 
   clean-revealjs:
     chalkboard: false
-    center: true
 html-math-method:
   method: mathjax
   url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
@@ -18,38 +17,49 @@ author:
     email: cnc@stanford.edu
 date: June 28, 2024
 ---
-##
+## {.center}
 
-What is human-centered? And shouldn’t we be planet-centered? 
+What is human-centered? 
 
-## HAI (Human-centered AI Institute)
+And shouldn’t we be planet-centered? 
 
-### Mission
+## HAI (Human-centered AI Institute) at Stanford University {.center}
+
 
 The mission of HAI is to advance AI research, education, policy and practice to improve the human condition. Led by faculty from multiple departments across Stanford, [research focuses on developing AI technologies inspired by human intelligence]{.alert}; studying, forecasting and guiding the human and societal impact of AI; and designing and creating AI applications that augment human capabilities. 
 
-##
+https://hai.stanford.edu/about (retrieved June 20, 2024)
+
+##  {.center}
 
 “The choices are essentially political and ideological rather than technological. As we design technological systems, we are in fact designing sets of social relationships, and as we question those social relationships and attempt to design systems differently, we are then beginning to challenge in a political way, power structures in society.” 
 
 Mike Cooley (1934-2020) in **Architect or Bee? The human/technology relationship** (1980)
 
-## "Legal Design" and legal design
+## "Legal Design" and legal design  {.center}
 
 “...innovation in legal services, with practical, agile, and user-centered methods to make the legal system clearer, more efficient, more usable, and friendlier.”
 
 Margaret Hagan in *Law by Design* retrieved at https://lawbydesign.co/
 
 
-## What does it mean to provide access?
+## What does it mean to provide access? {.center}
 
 ::: {.incremental}
 - Machine learning for discovery?
+  - Transcription
+  - Translation
+  - OCR and HTR
+  - Image to text/Text to image
+  - ...and so much more
 - Machine learning for access?
+  - Can you afford it?
+  - Do you have the rights?
+  - Is it available?
 :::
 
 
-## Know Systemic Racism
+## "Know Systemic Racism" Core Principles {.center}
 
 ::: {.incremental}
 - Show interconnections
@@ -61,7 +71,7 @@ Margaret Hagan in *Law by Design* retrieved at https://lawbydesign.co/
 ![](imgs/case_study.png)
 
 
-## Why law enforcement policy manuals?
+## Why law enforcement policy manuals? {.center}
 
 "Collecting these materials serves an important role in creating an informed populace...When civilians know what is allowed by police policies, they are armed with the knowledge to protect themselves, their loved ones and their community by fighting back against abuse. People must know their rights in order to identify when their rights are being violated."
 
@@ -148,25 +158,26 @@ This map shows California law enforcement agencies (city-level proximity) that p
 :::
 
 
-## California Senate Bill 978
+## California Senate Bill 978 {.center}
 
 SB 978, Bradford. Law enforcement agencies: public records.
 
 ...This bill would, commencing January 1, 2020, require the Commission on Peace Officer Standards and Training and each local law enforcement agency to [conspicuously post]{.alert} on their Internet Web sites all current standards, policies, practices, operating procedures, and education and training materials that would otherwise be available to the public if a request was made pursuant to the California Public Records Act. 
 
-## California Senate Bill 978 (cont.)
+## California Senate Bill 978 (cont.) {.center}
 
 SECTION 1. The Legislature finds and declares all of the following:
 
 (a) ...
 
 (d) Making regulations of law enforcement agencies easily accessible to the public helps educate the public about law enforcement policies, practices, and procedures, increases communication and community trust, and enhances transparency, while saving costs and labor associated with responding to individual requests for this information.
+...
 
 
-## 
+## Is this a collections as data project?
 ![Diagram for proccessing a document collection as data.](imgs/KSR_CAD.png)
 
-##  Commercial Content Management Systems
+## The design problems are upstream
 
 
 
@@ -177,7 +188,8 @@ SECTION 1. The Legislature finds and declares all of the following:
 
 :::
 
-##  Lexipol
+##  Lexipol provides the model policy for over 90% of agencies
+"Lexipol promotes its policies as a risk management tool that can reduce legal liability, rather than a tool to improve officer decision-making."
 
 ![Eagly, Ingrid V., and Joanna C. Schwartz. "Lexipol: The privatization of police policymaking." TEx. L. REv. 96 (2017): 891.](imgs/lexipol.png)
 
@@ -185,6 +197,53 @@ SECTION 1. The Legislature finds and declares all of the following:
 
 ##  Simple Sabotage whether intentional or not
 
-![](imgs/simple_sabotage0.png)
+!["It is based on universal opportunities to make faulty decisions, to adopt a non­ cooperative attitude, and to induce others to follow suit."](/imgs/simple_sabotage0.png)
+
+
+## KSR Team {.center}
+
+Felicia Smith and Nicole Coleman (PIs)
+
+:::: {.columns}
+
+::: {.column width="30%"}
+[Current interns:]{.alert}
+
+Jiaju Liu<br />
+Jorge Gonzales
+
+:::
+
+::: {.column width="30%"}
+[Previous Interns:]{.alert}
+
+Anabelle Colmenares<br />
+Chloe Williams<br />
+Shuvi Jha<br />
+Thalia Rae Revilla<br />
+Tracy Wei<br />
+Mahogany Brown<br />
+Akosua Kissi<br />
+Gabriela Basel
+
+:::
+
+::: {.column width="30%"}
+Mahik Kaur<br />
+Yash Gandhi<br />
+Joceleyn Valazquez<br />
+Molara Mabogunje<br />
+Makayla Miller<br />
+Kathia Hernandez-de Orta<br />
+Disha Shidham<br />
+Tian Hong Zhu Zhou<br />
+Ashley Campbell
+
+:::
+
+::::
+
+
+
 
 
