@@ -54,6 +54,8 @@ $selection-bg: #26351c !default;
   margin-top: 1.25em;
 }
 
+
+
 // title and headings
 
 #title-slide {
@@ -95,6 +97,12 @@ $selection-bg: #26351c !default;
       padding-right: 0em;
       width: 100%;
     }
+  }
+  .slide-logo {
+    height: 100px !important;
+    width: 420px !important;
+    max-width: unset !important;
+    max-height: unset !important;
   }
 
 }
