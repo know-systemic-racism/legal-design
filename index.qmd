@@ -15,6 +15,7 @@ author:
   - name: Catherine Nicole Coleman
     orcid: 0000-0002-3360-1975
     email: cnc@stanford.edu
+    affiliation: Unlocking our Digital Past with Artificial Intelligence (LUSTRE)
 date: June 28, 2024
 ---
 ## {.center}
