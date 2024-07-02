@@ -67,7 +67,7 @@ Margaret Hagan in *Law by Design* retrieved at https://lawbydesign.co/
 - Work in collaboration with community
 :::
 
-##
+## Policy Manual Case Study
 ![](imgs/case_study.png)
 
 
@@ -78,10 +78,10 @@ Margaret Hagan in *Law by Design* retrieved at https://lawbydesign.co/
 Judge LaDoris Hazzard Cordell (Ret.)
 
 
-## California Law Enforcement Agencies {visibility="hidden"}
+## California Law Enforcement Agencies
 ![This map shows California law enforcement agencies (city-level proximity) that participate in the Commission on Peace Officer Standards and Training (POST). (Map created by Claudia Engel for Know Systemic Racism)](imgs/lea_map.png)
 
-## {.smaller}
+## {visibility="hidden"}
 
 ```{r}
 library(sf)
